@@ -1,4 +1,4 @@
-program BlcLexer;
+program BlcParser;
 
 {$mode objfpc}{$H+}
 
